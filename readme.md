@@ -15,3 +15,17 @@ Oct/21/2025
 *[Linux](https://github.com/Mars-Gor/Portfolio_CompProgram/raw/refs/heads/main/src/linux-amd64.zip)
 
 *[SourceCode](https://github.com/Mars-Gor/Portfolio_CompProgram/tree/main/src/Calculator)
+
+## Term 2 Project
+
+### BurgerTime Clone
+
+Started 11/11/2025
+
+Finished: December 17th 2025
+
+![BurgerTime](https://github.com/Mars-Gor/Portfolio_CompProgram/blob/main/images/BurgerTimeScreenshot.png?raw=true)
+
+*[SourceCode](https://github.com/Mars-Gor/Portfolio_CompProgram/tree/main/src/BurgerTime)
+
+It's a game where you have to avoid enemies and make the Ingredients fall down and make burgers you will also have pepper which will stun enemies
