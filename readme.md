@@ -1,5 +1,9 @@
 # Mars Gorham's Programming Portfolio
 
+# Certificate
+
+*[Certificate](https://github.com/Mars-Gor/Portfolio_CompProgram/blob/main/images/Mars%20Gorham_Computer%20Programming%201_12182025.pdf)
+
 ## Term 1 Projects
 
 ### Calculator (2025)
