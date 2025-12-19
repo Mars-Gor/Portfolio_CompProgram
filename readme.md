@@ -24,6 +24,12 @@ Oct/21/2025
 
 ### BurgerTime Clone
 
+# Members
+
+- Mars Gorham
+
+- Ben Watermen
+
 Started 11/11/2025
 
 Finished: December 17th 2025
